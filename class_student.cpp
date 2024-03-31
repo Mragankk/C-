@@ -37,7 +37,7 @@ int main () {
     }
     outputFile.close();
   } else {
-      std::cerr << "yaaaarrrr, dikkat aarhi hai" << std::endl;
+      std::cerr << "!!! dikkat aarhi hai !!!" << std::endl;
       return 1;
   }
    // Retrieve and display the records from the file
