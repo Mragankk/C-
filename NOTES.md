@@ -76,4 +76,5 @@ A specialized format for organizing, processing, retrieving and storing data.
 - **Composition**: Design principle where complex objects are created by combining simpler objects.
 - **Method Overriding**: Subclasses provide specific implementations of methods inherited from their superclass.
 
-Each pillar plays a crucial role in OOP, contributing to the design and implementation of modular, reusable, and maintainable code. These concepts collectively form the foundation of Object-Oriented Programming.
+Each pillar plays a crucial role in OOP, contributing to the design and implementation of modular, reusable, and maintainable code.
+These concepts collectively form the foundation of Object-Oriented Programming.
