@@ -59,6 +59,5 @@ int main() {
     delete person1;
     delete student1;
     delete employee1;
-
     return 0;
 }
